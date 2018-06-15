@@ -1,2 +1,3 @@
-# lab_manual
-Lab manual
+# Lab Manual
+
+Draft.
