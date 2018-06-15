@@ -44,4 +44,7 @@ Git can be rather abstract and hard to wrap your head around at first. A graphic
 - [GitKraken](https://www.gitkraken.com/) is sleek and works across Windows, Mac OS, and Linux
 - RStudio integrates well with Github and has a simple interface for working with Git/Github
 
+# Project Management
 
+
+# Coding
