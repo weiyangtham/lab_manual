@@ -34,6 +34,14 @@ Below are some resources to get you started.
 
 ## Git
 
-RStudio has a simple 
+- [Software Carpentry](http://swcarpentry.github.io/git-novice/)
+- [Happy Git with R](http://happygitwithr.com/) - despite its name, much of this resource is relevant for non-R users, especially installation and set up, which can sometimes be a pain with Git
 
-- [Software Carpenty](http://swcarpentry.github.io/git-novice/)
+### Git GUIs
+
+Git can be rather abstract and hard to wrap your head around at first. A graphical user interace (GUI) can be really helpful in removing the mystique. 
+
+- [GitKraken](https://www.gitkraken.com/) is sleek and works across Windows, Mac OS, and Linux
+- RStudio integrates well with Github and has a simple interface for working with Git/Github
+
+
